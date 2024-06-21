@@ -166,5 +166,6 @@
         {name: "Ziggs", top: false, jungle: false, mid: true, bottom: true, support: false},
         {name: "Zilean", top: false, jungle: false, mid: true, bottom: false, support: true},
         {name: "Zoe", top: false, jungle: false, mid: true, bottom: false, support: false},
-        {name: "Zyra", top: false, jungle: false, mid:false, bottom: false, support: true},],
+        {name: "Zyra", top: false, jungle: false, mid:false, bottom: false, support: true},
+      ],
   }
